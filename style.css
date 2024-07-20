@@ -12,7 +12,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background:linear-gradient(45deg,black, rgb(89, 86, 86))
+    background:linear-gradient(45deg,black, rgb(89, 86, 86));
 }
 .calculator{
     border: 1px solid gray;
